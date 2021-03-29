@@ -1,6 +1,6 @@
 # MLH Local Hack Day: Share
 
-**Guild Name:** Tech Bubble
+**Guild Name:** Technocrats
 
 **Date:** March 28th to April 5th
 
